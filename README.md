@@ -1,5 +1,2 @@
 # bash
-Tests for bash commands
-ЗАДАНИЕ: Напишите автотесты для 20 любых команд Linux.
-Можно с параметрами, не менее 10 уникальных команд. Хотя бы 5 нагрузочных автотестов. 
-Проверять, что программа сделала, что должна (output на оба потока, return код).
+Small unix scripts for solving various problems
